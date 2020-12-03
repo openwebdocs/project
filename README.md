@@ -4,6 +4,7 @@ administrative documentation, policies, &amp; meeting minutes
 ---
 
 Open Web Docs supports web platform documentation for the benefit of web developers & designers worldwide.
+See our [charter](https://github.com/openwebdocs/project/blob/main/charter.md).
 
 ---
 
