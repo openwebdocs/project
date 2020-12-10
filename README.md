@@ -1,7 +1,7 @@
 # Open Web Docs project
 
 ## About
-[Open Web Docs](http://openwebdocs.orǵ) supports web platform documentation for the benefit of web developers & designers worldwide. We are a community of web developers, standards makers, and technology companies that rely on this documentation as critical digital infrastructure, and we work cooperatively to ensure its long-term success and maintenance. 
+[Open Web Docs](http://openwebdocs.org) supports web platform documentation for the benefit of web developers & designers worldwide. We are a community of web developers, standards makers, and technology companies that rely on this documentation as critical digital infrastructure, and we work cooperatively to ensure its long-term success and maintenance. 
 See our [charter](charter.md).
 
 ## Governance
