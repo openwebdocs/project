@@ -33,3 +33,4 @@ As a steering committee member, you agree to:
 In support of these expectations,
 
 - Florian Scholz (Open Web Docs)
+- Robert Nyman (Google)
