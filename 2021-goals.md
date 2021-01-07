@@ -1,6 +1,6 @@
 # OWD 2021 goals
 
-This documents outlines high-level objectives for Open Web Docs in 2021.
+This document outlines high-level objectives for Open Web Docs in 2021.
 
 ## Governing Committee
 - Publicly launch Open Web Docs
