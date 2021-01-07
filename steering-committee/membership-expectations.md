@@ -26,3 +26,10 @@ As a steering committee member, you agree to:
 - Not promote a specific corporate or individual agenda, particularly during the creation, editing or prioritization of content on MDN or other OWD-supported documentation projects.
 - Represent the needs of the wider diverse community of web developers
 - Promptly inform Open Web Docs if your affiliation changes, as this may affect your participation on the steering committee
+
+
+## Signing members
+
+In support of these expectations,
+
+- Florian Scholz (Open Web Docs)
