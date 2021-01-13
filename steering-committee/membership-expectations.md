@@ -36,3 +36,4 @@ In support of these expectations,
 - Robert Nyman (Google)
 - Dominique Hazael-Massieux (W3C)
 - Adrian Hope-Bailie (Coil)
+- Daniel Appelquist (Samsung)
