@@ -35,3 +35,4 @@ In support of these expectations,
 - Florian Scholz (Open Web Docs)
 - Robert Nyman (Google)
 - Dominique Hazael-Massieux (W3C)
+- Adrian Hope-Bailie (Coil)
