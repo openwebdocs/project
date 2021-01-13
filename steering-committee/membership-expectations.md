@@ -34,3 +34,4 @@ In support of these expectations,
 
 - Florian Scholz (Open Web Docs)
 - Robert Nyman (Google)
+- Adrian Hope-Bailie (Coil)
