@@ -39,3 +39,4 @@ In support of these expectations,
 - Daniel Appelquist (Samsung)
 - Brian Kardell (Igalia)
 - Kyle Pflug (Microsoft)
+- Chris Mills (Mozilla)
