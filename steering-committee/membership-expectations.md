@@ -40,3 +40,4 @@ In support of these expectations,
 - Brian Kardell (Igalia)
 - Kyle Pflug (Microsoft)
 - Chris Mills (Mozilla)
+- Jory Burson (Open Web Docs)
