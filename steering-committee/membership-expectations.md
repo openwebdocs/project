@@ -41,3 +41,4 @@ In support of these expectations,
 - Kyle Pflug (Microsoft)
 - Chris Mills (Mozilla)
 - Jory Burson (Open Web Docs)
+- Lola Odelola (Samsung)
