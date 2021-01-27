@@ -18,6 +18,8 @@ Individuals participate in the steering committee on behalf of an organization, 
 - Provide feedback on editorial direction and documentation work streams
 - Help promote Open Web Docs work
 
+To fulfill these responsibilities, members can propose alternate individuals that facilitate their continued participation. Alternate members are approved on the basis of consensus in steering committee meetings.
+
 ## Expectations
 As a steering committee member, you agree to:
 - Abide by the [Code of Conduct](https://github.com/openwebdocs/project/blob/main/code_of_conduct.md)
