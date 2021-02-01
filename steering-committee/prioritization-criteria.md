@@ -4,6 +4,16 @@ The [OWD charter](https://github.com/openwebdocs/project/blob/main/charter.md) s
 ## Criteria
 In no particular order. When deciding about what to prioritize and which opportunity to work on, OWD will take into account:
 
+* [Effort](#Effort)
+* [Dependencies](#Dependencies)
+* [Community enablement](#Community-enablement)
+* [Momentum](#Momentum)
+* [Enabling learners](#Enabling-learners)
+* [Enabling professionals](#Enabling-professionals)
+* [Underrepresented topics / ethical web](#Underrepresented-topics--ethical-web)
+* [Operational necessities](#Operational-necessities)
+* [Addressing needs of the Web industry](#Addressing-needs-of-the-Web-industry)
+
 ### Effort
 * A higher cost ranks negatively
 * How much time needs to be spent?
@@ -14,7 +24,7 @@ In no particular order. When deciding about what to prioritize and which opportu
 ### Dependencies
 * More dependencies rank negatively
 * Does it need a change in the platform?
-* Does it need involvement from external people? (e.g. spec authors, spec tooling, etc.)
+* Does it need involvement from external people? (spec authors, spec tooling, etc.)
 
 ### Community enablement
 * More enablement ranks positively
@@ -30,8 +40,8 @@ In no particular order. When deciding about what to prioritize and which opportu
 
 ### Enabling learners
 * Higher enablement ranks positively
-* Is the opportunity about concepts that need to be learned in order to understand the Web better? (as opposed to just yet another API reference documentation or such things).
-* Does the opportunity contribute an educational pathway for someone to understand a module of the mechanics of the Web?
+* Is the opportunity about concepts that need to be learned in order to understand the Web better? (as opposed to just another API reference, or some such thing)
+* Does the opportunity contribute an educational pathway for someone to understand a key web development-related topic?
 
 ### Enabling professionals
 * Higher enablement ranks positively
@@ -42,12 +52,12 @@ In no particular order. When deciding about what to prioritize and which opportu
 ### Underrepresented topics / ethical web
 * Higher under-representation ranks positively
 * Is the opportunity in the realm of accessibility, privacy, performance (on low-end devices), or other aspects of an ethical web?
-* Does the opportunity address needs of an underrepresented market or geographical area?
+* Does the opportunity address the needs of an underrepresented market or geographical area?
 
-### Operational necessity
+### Operational necessities
 * Higher ranking if the opportunity is identified as an absolute must-know  
-* Example: All browsers unship Appcache. It is absolutely necessary for web developers to learn how to cache using SW.
-* Example: High severity security issues web developers need to be aware of.
+* Example: All browsers unship AppCache. It is absolutely necessary for web developers to learn how to cache using Service Workers
+* Example: High severity security issues web developers need to be aware of
 
 ### Addressing needs of the Web industry
 * Higher ranking if opportunity speaks to needs of the web industry
@@ -56,9 +66,9 @@ In no particular order. When deciding about what to prioritize and which opportu
 * Is there evidence in data from sources like caniuse or MDN that people look for help on a particular topic?
 
 ## Weighting
-The above criteria are in no particular order. However, depending on the opportunity, certain criteria might be more important than others. For example, being data driven is important, so if there is indication that an opportunity addresses a previously identified web developer pain point then that could mean a lot.
+The above criteria are in no particular order. However, depending on the opportunity, certain criteria might be more important than others. For example, being data-driven is important, so if there is indication that an opportunity addresses a previously identified web developer pain point then that could mean a lot.
 
 To that extent, the following criteria are usually weighted twice as much as others:
-* Effort
-* Operational necessity
-* Addressing the needs of the web industry
+* [Effort](#Effort)
+* [Operational necessities](#Operational-necessities)
+* [Addressing needs of the Web industry](#Addressing-needs-of-the-Web-industry)
