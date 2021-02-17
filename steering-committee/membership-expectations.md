@@ -44,3 +44,4 @@ In support of these expectations,
 - Chris Mills (Mozilla)
 - Jory Burson (Open Web Docs)
 - Lola Odelola (Samsung)
+- Will Bamberg (Open Web Docs)
