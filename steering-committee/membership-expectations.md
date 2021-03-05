@@ -40,6 +40,7 @@ In support of these expectations,
 - Adrian Hope-Bailie (Coil)
 - Daniel Appelquist (Samsung)
 - Brian Kardell (Igalia)
+- Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
 - Chris Mills (Mozilla)
 - Jory Burson (Open Web Docs)
