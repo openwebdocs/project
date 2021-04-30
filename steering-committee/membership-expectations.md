@@ -38,7 +38,7 @@ In support of these expectations,
 - Robert Nyman (Google)
 - Philip Jägenstedt (Google)
 - Dominique Hazael-Massieux (W3C)
-- Adrian Hope-Bailie (Coil)
+- Uchi Uchibeke (Coil)
 - Daniel Appelquist (Samsung)
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
@@ -48,3 +48,7 @@ In support of these expectations,
 - Lola Odelola (Samsung)
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
+
+## Members emeriti
+
+- Adrian Hope-Bailie (Coil)
