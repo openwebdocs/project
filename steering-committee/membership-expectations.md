@@ -47,3 +47,7 @@ In support of these expectations,
 - Lola Odelola (Samsung)
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
+
+## Members emeriti
+
+- Adrian Hope-Bailie (Coil)
