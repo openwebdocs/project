@@ -50,6 +50,7 @@ In support of these expectations,
 - Michael[tm] Smith (W3C)
 - Ruth John (Mozilla)
 - Hermina Condei (Mozilla)
+- Joel Marcey (Facebook)
 
 ## Members emeriti
 
