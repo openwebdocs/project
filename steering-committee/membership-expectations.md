@@ -43,11 +43,13 @@ In support of these expectations,
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
-- Chris Mills (Mozilla)
+- Chris Mills (Independent)
 - Jory Burson (Open Web Docs)
 - Lola Odelola (Samsung)
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
+- Ruth John (Mozilla)
+- Hermina Condei (Mozilla)
 
 ## Members emeriti
 
