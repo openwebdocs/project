@@ -51,6 +51,7 @@ In support of these expectations,
 - Ruth John (Mozilla)
 - Hermina Condei (Mozilla)
 - Joel Marcey (Facebook)
+- Dominic Cooney (Facebook)
 
 ## Members emeriti
 
