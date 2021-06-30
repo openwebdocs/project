@@ -19,4 +19,4 @@ Open Web Docs believes open web platform documentation is critical digital infra
 ## What We Do
 To execute our mission and values, we contribute to MDN Web Docs and other related efforts with an independent editorial voice, rooted in the web technology landscape and reflecting the lived experience of web developers. We take a lead role on specific content projects within these platforms, in coordination with their core teams where appropriate.
 
-Open Web Docs invests in and protects documentation for the open web platform. We provide incentives and a platform for other related organizations to get involved in this work. We ensure developers have the best information available to make technology and design decisions and implement on the web platform.
+Open Web Docs invests in and protects free documentation for the open web platform. We provide incentives and a platform for other related organizations to get involved in this work. We ensure as many people as possible have the best information available for free to make technology and design decisions and implement on the web platform.
