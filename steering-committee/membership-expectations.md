@@ -52,6 +52,7 @@ In support of these expectations,
 - Hermina Condei (Mozilla)
 - Joel Marcey (Facebook)
 - Dominic Cooney (Facebook)
+- Piotr Tomiak (JetBrains)
 
 ## Members emeriti
 
