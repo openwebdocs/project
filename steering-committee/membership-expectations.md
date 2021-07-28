@@ -53,6 +53,7 @@ In support of these expectations,
 - Joel Marcey (Facebook)
 - Dominic Cooney (Facebook)
 - Piotr Tomiak (JetBrains)
+- Jean-Yves Perrier (Open Web Docs)
 
 ## Members emeriti
 
