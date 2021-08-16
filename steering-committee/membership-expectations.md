@@ -54,6 +54,7 @@ In support of these expectations,
 - Dominic Cooney (Facebook)
 - Piotr Tomiak (JetBrains)
 - Jean-Yves Perrier (Open Web Docs)
+- Estelle Weyl (Open Web Docs)
 
 ## Members emeriti
 
