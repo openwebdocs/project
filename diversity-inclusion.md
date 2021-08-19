@@ -17,7 +17,7 @@ As part of our commitment, we will support diversity & inclusion in the followin
 
 - We will not speak at or sponsor an event unless the event’s organizers are clearly working hard to address the diversity of their speakers and attendees. We expect representation from different genders, ethnicities, abilities and other underrepresented groups in tech.
 
-- We will not participate in or sponsor events unless they operate under, and enforce, a published code of conduct. We also developed [our own code of conduct](code_of_conduct.md) adapted from the Contributor Covenant. For events specifically, a good example is the [Mozilla's View Source Conference code of conduct](https://viewsourceconf.org/code-of-conduct/). We like codes of conduct that are specific and provide detailed enforcement information.
+- We will not participate in or sponsor events unless they operate under, and enforce, a published code of conduct. We also developed [our own code of conduct](code_of_conduct.md) adapted from the Contributor Covenant. For events specifically, a good example is [Mozilla's View Source Conference code of conduct](https://viewsourceconf.org/code-of-conduct/). We like codes of conduct that are specific and provide detailed enforcement information.
 
 - We encourage, and will always use, inclusive language at events and in online communities surrounding events. This includes, but is not limited to, discouraging the use of [gendered](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/) or [ableist](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html) language.
 
