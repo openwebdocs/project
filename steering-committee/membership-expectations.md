@@ -49,13 +49,14 @@ In support of these expectations,
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
 - Ruth John (Mozilla)
-- Hermina Condei (Mozilla)
 - Joel Marcey (Facebook)
 - Dominic Cooney (Facebook)
 - Piotr Tomiak (JetBrains)
 - Jean-Yves Perrier (Open Web Docs)
 - Estelle Weyl (Open Web Docs)
+- Daniel Beck (Mozilla)
 
 ## Members emeriti
 
 - Adrian Hope-Bailie (Coil)
+- Hermina Condei (Mozilla)
