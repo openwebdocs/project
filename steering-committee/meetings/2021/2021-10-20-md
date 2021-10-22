@@ -1,0 +1,34 @@
+# OWD Steering Committee call, 13-10-2021
+
+**Present:** Daniel Beck (Mozilla), Jean-Yves Perrier (Open Web Docs), Ruth John (Mozilla), Estelle Weyl (Open Web Docs), Lola Odelola (Samsung), Will Bamberg (OWD), Rachel Andrew (Google), Kyle Pflug (Microsoft)
+
+**Regrets:** Philip Jägenstedt (Google), Daniel Appelquist (Samsung), Brian Kardell (Igalia), Mike Smith (W3C), Eric Meyer (Igalia), Joel Marcey (Facebook),  Rob Dodson (Google), Piotr Tomiak (JetBrains), Florian Scholz (OWD), Uchi Uchibeke (Coil), Dominique Hazael-Massieux (W3C), Dominic Cooney (Facebook), Jory Burson (Guest). 
+
+## Non-verbal comments:
+1. I took the idea for this section from Daniel Beck. (Who took it from Will Bamberg, who took it from the Add-ons community, who took it from… We steaé only good ideas)
+2. Florian is in a well-deserved holiday.
+
+## Agenda / Notes
+
+1. (All) Welcome Rachel Andrew to the SC!
+2. (Jean-Yves) Work on DOM has started. First part the reference.
+  * Event and CustomEvent in review. Thanks for the thorough reviews by Will Bamberg and Joe Medley.
+  * Finishing EventTarget this week, next we start with the “real” DOM Interface (`Attr`, `Node`, …)
+  * Community involvement:
+    * Dipika (met at WriteTheDocs) is helping with `DOMException`.
+    * Jan is creating missing reference pages/updating (He created `HTMLCollection.namedItem` this week).
+3. (Will) 
+  * Markdown, what’s left:
+    * Web/Guide - PR is in review
+    * Mozilla/Add-ons - will have a PR up in the next day or two
+    * Web/Accessibility - Estelle is taking care of this
+    * Mozilla/Firefox - Ruth is taking care of this
+  * Next up will be a plan for updating the JS Learning Area
+4. (Estelle)
+  * ARIA roles have been merged. 
+  * ARIA attributes are starting to show up
+  * Lost the Git battle
+
+## Notes 
+
+* (Daniel) Who’s working on event handlers and event names? Florian. Will will comment in that thread. Unless it’s urgent, let’s wait till Florian is back.
