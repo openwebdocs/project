@@ -54,17 +54,17 @@ existing platforms through our contributions.
 On January 25, 2021, Open Web Docs was launched publicly with an
 overall very positive reaction from the Web community. The
 [launch
-tweet](https://www.google.com/url?q=https://twitter.com/OpenWebDocs/status/1353748877111918593&sa=D&source=editors&ust=1635238581420000&usg=AOvVaw3O8YC2_TYAn-mn5FljyVJF) had
+tweet](https://twitter.com/OpenWebDocs/status/1353748877111918593) had
 473,760 impressions, and the [launch blog
-post](https://www.google.com/url?q=https://opencollective.com/open-web-docs/updates/introducing-open-web-docs&sa=D&source=editors&ust=1635238581420000&usg=AOvVaw1fB1m5gxwMMY-ePhbY002k) has
+post](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs) has
 over 25,000 views. There are now [147
 contributors on Open
-Collective](https://www.google.com/url?q=https://opencollective.com/open-web-docs&sa=D&source=editors&ust=1635238581421000&usg=AOvVaw0oX2jcfKtcgKCph7hl36Bt),
+Collective](https://opencollective.com/open-web-docs),
 the [Twitter account
-@OpenWebDocs](https://www.google.com/url?q=https://twitter.com/OpenWebDocs&sa=D&source=editors&ust=1635238581421000&usg=AOvVaw23NfOSSMif_Bv3vP-u3Svh) counts
+@OpenWebDocs](https://twitter.com/OpenWebDocs) counts
 1,915 followers and the project repository has
 [298 stars on
-GitHub](https://www.google.com/url?q=https://github.com/openwebdocs/project&sa=D&source=editors&ust=1635238581421000&usg=AOvVaw2ah2mnM13hFqZUA7XeTWYk).
+GitHub](https://github.com/openwebdocs/project).
 OWD also spent a long time being the \#1 news on Hacker News
 and the story was picked up on over
 20 international press sites.
@@ -109,7 +109,7 @@ Facebook:
 > leads the way in shaping the future of inclusive, extensive and quality
 >web documentation.”
 [Joel
-Marcey](https://www.google.com/url?q=https://twitter.com/JoelMarcey&sa=D&source=editors&ust=1635238581423000&usg=AOvVaw1aoy0v1lhi87pb-00X_pvi),
+Marcey](https://twitter.com/JoelMarcey),
 Staff Developer Advocate, Facebook
 
 
@@ -137,7 +137,7 @@ Kyle Pflug, Principal Group PM Manager, Microsoft Edge
 Samsung Internet:
 
 > “We’re [proud to be
-> part](https://www.google.com/url?q=https://medium.com/samsung-internet-dev/docs-help-make-the-web-open-63c654064064&sa=D&source=editors&ust=1635238581424000&usg=AOvVaw0gMLN3enjc_jX4CNd-EoOJ) of
+> part](https://medium.com/samsung-internet-dev/docs-help-make-the-web-open-63c654064064) of
 > Open Web Docs to help ensure high quality cross-browser documentation
 > for the web.“
 Dan Appelquist, Head of Developer Advocacy
@@ -180,10 +180,10 @@ The first quarter with a full workforce will be Q4
 Fostering diversity and inclusion in the tech industry is a core
 value for Open Web Docs. We have put in place a
 [diversity & inclusion
-policy](https://www.google.com/url?q=https://github.com/openwebdocs/project/blob/main/diversity-inclusion.md&sa=D&source=editors&ust=1635238581425000&usg=AOvVaw2On_P3GXxAmib1cCU-NxEr) regarding
+policy](https://github.com/openwebdocs/project/blob/main/diversity-inclusion.md) regarding
 what events and communities we will participate in and we have signed on
 to the [Diversity
-Charter](https://www.google.com/url?q=https://diversitycharter.org/&sa=D&source=editors&ust=1635238581425000&usg=AOvVaw3dNxDtSP2ain48GGRQYN1J).
+Charter](https://diversitycharter.org/).
 Our intention is that our program of work, including what we put effort
 into and how we prioritise our activities, will also reflect this core
 value.
@@ -191,14 +191,14 @@ value.
 ## Steering committee
 
 The [Open Web Docs Steering
-Committee](https://www.google.com/url?q=https://github.com/openwebdocs/project/blob/main/steering-committee/membership-expectations.md&sa=D&source=editors&ust=1635238581425000&usg=AOvVaw1dCB1dHt3Kz91rJSywSGF5) consists
+Committee](https://github.com/openwebdocs/project/blob/main/steering-committee/membership-expectations.md) consists
 of two representatives from each participating organization and the OWD
 staff team. The group holds weekly meetings for which
 [meeting notes are available throughout the
-year](https://www.google.com/url?q=https://github.com/openwebdocs/project/tree/main/steering-committee/meetings/2021&sa=D&source=editors&ust=1635238581426000&usg=AOvVaw3q7da41sjLGQ8O1Wd3JXDt).
+year](https://github.com/openwebdocs/project/tree/main/steering-committee/meetings/2021).
 The OWD Steering Committee operates in the open with
 [vendor neutral prioritization
-criteria](https://www.google.com/url?q=https://github.com/openwebdocs/project/blob/main/steering-committee/prioritization-criteria.md&sa=D&source=editors&ust=1635238581426000&usg=AOvVaw30xmiL2G8ZDmesAPWEhZ8Q) and
+criteria](https://github.com/openwebdocs/project/blob/main/steering-committee/prioritization-criteria.md) and
 has an open prioritization process involving all Steering Committee
 members on a quarterly
 basis.
@@ -212,21 +212,21 @@ amplified and supported projects like MDN Web Docs and the Open Web in
 general via our growing channels:
 
   - 1,915 Twitter followers
-    [https://twitter.com/OpenWebDocs](https://www.google.com/url?q=https://twitter.com/OpenWebDocs&sa=D&source=editors&ust=1635238581426000&usg=AOvVaw14VYAwLj3EXOtAFpF3-Ko-) 
+    [https://twitter.com/OpenWebDocs](https://twitter.com/OpenWebDocs) 
   - 298 GitHub stars
-    [https://github.com/openwebdocs/project](https://www.google.com/url?q=https://github.com/openwebdocs/project&sa=D&source=editors&ust=1635238581427000&usg=AOvVaw04j28PicWUvJM2--i1MNbS) 
+    [https://github.com/openwebdocs/project](https://github.com/openwebdocs/project) 
   - 147 open collect updates subscribers
-    [https://opencollective.com/open-web-docs/updates](https://www.google.com/url?q=https://opencollective.com/open-web-docs/updates&sa=D&source=editors&ust=1635238581427000&usg=AOvVaw3tNTXWmSi0beKjIy8Ki_cu) 
+    [https://opencollective.com/open-web-docs/updates](https://opencollective.com/open-web-docs/updates) 
 
 
 
 To keep OWD backers apprised of ongoing work, monthly worklog
 posts are published
-([archive](https://www.google.com/url?q=https://github.com/openwebdocs/project/tree/main/steering-committee/worklog&sa=D&source=editors&ust=1635238581427000&usg=AOvVaw2Vf1W4CoUZ44XOoXobqQP4)).
+([archive](https://github.com/openwebdocs/project/tree/main/steering-committee/worklog)).
 The OWD team also participates as invited guests on podcasts and
 presents at Web related conferences. The JS Party podcast is an example
 for this:
-[https://changelog.com/jsparty/165](https://www.google.com/url?q=https://changelog.com/jsparty/165&sa=D&source=editors&ust=1635238581427000&usg=AOvVaw0WPccA0TKuHbATiw4WjgtM).
+[https://changelog.com/jsparty/165](https://changelog.com/jsparty/165).
 
 ## Contributions to MDN Web Docs
 
@@ -239,11 +239,11 @@ contributions reach the vast majority of web developers.
 
 Open Web Docs is also interested in addressing web development
 pain points as identified by the [MDN Web DNA
-survey](https://www.google.com/url?q=https://insights.developer.mozilla.org&sa=D&source=editors&ust=1635238581428000&usg=AOvVaw06YNEV7kP5BwkaC-Mg_jOs) and
+survey](https://insights.developer.mozilla.org) and
 is working with browser vendors and Steering Committee members alike to
 identify and solve these problems. With web compatibility being the
 number one web developer pain point, a focus has been to contribute to
-[mdn/browser-compat-data](https://www.google.com/url?q=https://github.com/mdn/browser-compat-data&sa=D&source=editors&ust=1635238581428000&usg=AOvVaw0RXbcq5D7_GjIMlNOJFVeR) (“BCD”)
+[mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) (“BCD”)
 in particular (a sub-project of MDN Web Docs).
 
 
@@ -332,9 +332,9 @@ blocked by getting reviews from maintainers.
 
 
 In 2020, MDN content
-[moved](https://www.google.com/url?q=https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/&sa=D&source=editors&ust=1635238581445000&usg=AOvVaw3rlNegmqTnq24vXWk2Llp9) into
+[moved](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/) into
 the
-[mdn/content](https://www.google.com/url?q=https://github.com/mdn/content&sa=D&source=editors&ust=1635238581445000&usg=AOvVaw3_G1mM4uoL1WKGhz3Llb4Z) GitHub
+[mdn/content](https://github.com/mdn/content) GitHub
 repo, meaning that all contributions would be in the form of pull
 requests needing manual review before merging. One of the main concerns
 around this was: would the PR review workload be sustainable for
@@ -359,10 +359,10 @@ backlog.
     currently at 54.
   - In the last month (August 22, 2021 – September 22)
     [601 PRs were merged from 161
-    contributors](https://www.google.com/url?q=https://github.com/mdn/content/pulse/monthly&sa=D&source=editors&ust=1635238581446000&usg=AOvVaw23ZZBP52xfl1Kff5RiWBVN):
+    contributors](https://github.com/mdn/content/pulse/monthly):
     an average of about 20/day (by comparison, this is more than twice
     as many as the [Microsoft Azure
-    docs](https://www.google.com/url?q=https://github.com/MicrosoftDocs/azure-docs/pulse/monthly&sa=D&source=editors&ust=1635238581446000&usg=AOvVaw1kZ2dhSqJlKdBkyn3YPy_g)).
+    docs](https://github.com/MicrosoftDocs/azure-docs/pulse/monthly)).
   - This means MDN’s PR backlog represents less than
     three days’ worth of pull requests.
 
@@ -463,7 +463,7 @@ MDN’s conversion to
 Markdown.
 
 Thanks to the data from
-[w3c/browser-specs](https://www.google.com/url?q=https://github.com/w3c/browser-specs&sa=D&source=editors&ust=1635238581465000&usg=AOvVaw0SLYxqkKHImMwOaFy-fMn8) and
+[w3c/browser-specs](https://github.com/w3c/browser-specs) and
 adding spec\_urls to the browser-compat-data project, MDN’s
 specification links are now validated and up-to-date. A renderer was
 added to Yari
@@ -476,10 +476,10 @@ at once in the future.
 
 Open Web Docs has also started to investigate integrating and
 working with additional data for documentation using the
-[w3c/webref](https://www.google.com/url?q=https://github.com/w3c/webref&sa=D&source=editors&ust=1635238581466000&usg=AOvVaw2XzrSBJo2yLa4gB4aI9UHG) project
+[w3c/webref](https://github.com/w3c/webref) project
 and working with WebIDL files. Long term, Open Web Docs envisions
 [MDN as a provider of structured
-content](https://www.google.com/url?q=https://github.com/openwebdocs/project/issues/34&sa=D&source=editors&ust=1635238581466000&usg=AOvVaw3ZF-sr4FJSkmmo-C10Y37d).
+content](https://github.com/openwebdocs/project/issues/34).
 
 ### MDN browser-compat-data (BCD) contributions
 
@@ -517,15 +517,15 @@ APIs, directly helping developers both on MDN and caniuse.com.
 Major IA topics included:
 
   - [Web API
-    mixins](https://www.google.com/url?q=https://github.com/openwebdocs/project/issues/23&sa=D&source=editors&ust=1635238581468000&usg=AOvVaw1gB5qwERsYMy3Z8_6g0t3P)
+    mixins](https://github.com/openwebdocs/project/issues/23)
   - [Web API
-    dictionaries](https://www.google.com/url?q=https://github.com/mdn/content/discussions/5828&sa=D&source=editors&ust=1635238581468000&usg=AOvVaw0qk9neHFDSW3OJJWz3B01n)
+    dictionaries](https://github.com/mdn/content/discussions/5828)
   - [Web API
-    inheritance](https://www.google.com/url?q=https://github.com/mdn/content/discussions/5798&sa=D&source=editors&ust=1635238581468000&usg=AOvVaw2tVxiPqQjqO9sshggeZZ-B)
+    inheritance](https://github.com/mdn/content/discussions/5798)
   - [Web API
-    events](https://www.google.com/url?q=https://github.com/openwebdocs/project/issues/61&sa=D&source=editors&ust=1635238581469000&usg=AOvVaw0JH2_-DFqLTTBsJ0kUnqv_)
+    events](https://github.com/openwebdocs/project/issues/61)
   - [Web API
-    globals](https://www.google.com/url?q=https://twitter.com/lcasdev/status/1425426134318133253&sa=D&source=editors&ust=1635238581469000&usg=AOvVaw3GZJMawMQMYylUBousHmFL)
+    globals](https://twitter.com/lcasdev/status/1425426134318133253)
   - Sidebars and overall navigability on MDN
 
 
@@ -544,7 +544,7 @@ accessible to beginners.
 
 
 In Q2 2021, Open Web Docs worked on a
-[project](https://www.google.com/url?q=https://github.com/openwebdocs/project/issues/26&sa=D&source=editors&ust=1635238581470000&usg=AOvVaw1iM_Fx1F-oWdNxVeojpVkL) to
+[project](https://github.com/openwebdocs/project/issues/26) to
 make MDN reference pages more readable and easier to understand by
 beginners by simplifying MDN’s syntax
 sections. This change affected all of the
@@ -552,7 +552,7 @@ JavaScript and Web APIs pages.
 
 Work on enhancing the [syntax sections in
 the MDN CSS
-docs](https://www.google.com/url?q=https://github.com/mdn/yari/pull/4656&sa=D&source=editors&ust=1635238581470000&usg=AOvVaw1rMb0JIqTzDoSwrmP2RfLi) began
+docs](https://github.com/mdn/yari/pull/4656) began
 in Q3 2021.
 
 
@@ -654,7 +654,7 @@ $800,842.54.
 We work with a partner, Velocity Global, to process locally
 compliant payroll. More detail on Open Web Docs’ finances may be found
 on [our Open Collective
-page](https://www.google.com/url?q=https://opencollective.com/open-web-docs%23category-BUDGET&sa=D&source=editors&ust=1635238581476000&usg=AOvVaw1LeCXXrW4YX5Rd35QqWMQ0).
+page](https://opencollective.com/open-web-docs%23category-BUDGET).
 
 -----
 
@@ -664,7 +664,7 @@ page](https://www.google.com/url?q=https://opencollective.com/open-web-docs%23ca
 
 This appendix describes how we calculated the metrics for OWD
 contributions to the
-[mdn/content](https://www.google.com/url?q=https://github.com/mdn/content/&sa=D&source=editors&ust=1635238581476000&usg=AOvVaw1KfQ1M9vklzSMtf75Ylmky) repository.
+[mdn/content](https://github.com/mdn/content/) repository.
 It’s included here in the interest of transparency and as an invitation
 to check the data.
 
@@ -681,7 +681,7 @@ We showed two metrics:
 
 The data to back up the metrics is in the
 [OWD
-metrics](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1-7-jmrVCmsxb1adSujY8L5xxLIIV2MBTxL83AdW4Kfc/edit?usp%3Dsharing&sa=D&source=editors&ust=1635238581477000&usg=AOvVaw3PbtdLthxdy8L-zXnI2-4z) spreadsheet.
+metrics](https://docs.google.com/spreadsheets/d/1-7-jmrVCmsxb1adSujY8L5xxLIIV2MBTxL83AdW4Kfc/edit?usp%3Dsharing) spreadsheet.
 
 ### Number of commits
 
@@ -691,21 +691,21 @@ September 2021:
 
 
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-02-01\&to=2021-02-28\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-02-01%26to%3D2021-02-28%26type%3Dc&sa=D&source=editors&ust=1635238581477000&usg=AOvVaw0G9kCpYFh7SgknHPJKyk5W)
+[https://github.com/mdn/content/graphs/contributors?from=2021-02-01\&to=2021-02-28\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-02-01%26to%3D2021-02-28%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-03-01\&to=2021-03-31\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-03-01%26to%3D2021-03-31%26type%3Dc&sa=D&source=editors&ust=1635238581477000&usg=AOvVaw2hIbNrobIstLTz93b8Z92A)
+[https://github.com/mdn/content/graphs/contributors?from=2021-03-01\&to=2021-03-31\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-03-01%26to%3D2021-03-31%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-04-01\&to=2021-04-30\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-04-01%26to%3D2021-04-30%26type%3Dc&sa=D&source=editors&ust=1635238581478000&usg=AOvVaw3dCqfWApkZjbEc4Yzr0ujq)
+[https://github.com/mdn/content/graphs/contributors?from=2021-04-01\&to=2021-04-30\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-04-01%26to%3D2021-04-30%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-05-01\&to=2021-05-31\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-05-01%26to%3D2021-05-31%26type%3Dc&sa=D&source=editors&ust=1635238581478000&usg=AOvVaw2IqMSIvuQIEyshHFzg5jX5)
+[https://github.com/mdn/content/graphs/contributors?from=2021-05-01\&to=2021-05-31\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-05-01%26to%3D2021-05-31%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-06-01\&to=2021-06-30\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-06-01%26to%3D2021-06-30%26type%3Dc&sa=D&source=editors&ust=1635238581478000&usg=AOvVaw3lZJth_HEH_IxAQIfpTaGy)
+[https://github.com/mdn/content/graphs/contributors?from=2021-06-01\&to=2021-06-30\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-06-01%26to%3D2021-06-30%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-07-01\&to=2021-07-31\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-07-01%26to%3D2021-07-31%26type%3Dc&sa=D&source=editors&ust=1635238581478000&usg=AOvVaw2_LQGlxQ-DkY8Rvfwve_gj)
+[https://github.com/mdn/content/graphs/contributors?from=2021-07-01\&to=2021-07-31\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-07-01%26to%3D2021-07-31%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-08-01\&to=2021-08-31\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-08-01%26to%3D2021-08-31%26type%3Dc&sa=D&source=editors&ust=1635238581479000&usg=AOvVaw2A3i13KFTjCqxLQda5-w45)
+[https://github.com/mdn/content/graphs/contributors?from=2021-08-01\&to=2021-08-31\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-08-01%26to%3D2021-08-31%26type%3Dc)
 
-[https://github.com/mdn/content/graphs/contributors?from=2021-09-01\&to=2021-09-30\&type=c](https://www.google.com/url?q=https://github.com/mdn/content/graphs/contributors?from%3D2021-09-01%26to%3D2021-09-30%26type%3Dc&sa=D&source=editors&ust=1635238581479000&usg=AOvVaw11o0UgM-XkVwE5MMNtyu91)
+[https://github.com/mdn/content/graphs/contributors?from=2021-09-01\&to=2021-09-30\&type=c](https://github.com/mdn/content/graphs/contributors?from%3D2021-09-01%26to%3D2021-09-30%26type%3Dc)
 
 For each month, we noted the number of commits by every
 contributor who made more than 10 commits. Then we grouped contributors
@@ -729,31 +729,31 @@ on MDN:
 
 
 
-[https://github.com/Elchi3](https://www.google.com/url?q=https://github.com/Elchi3&sa=D&source=editors&ust=1635238581480000&usg=AOvVaw3kPTkGwv66TcrZR2pJfZCc)
+[https://github.com/Elchi3](https://github.com/Elchi3)
 
-[https://github.com/wbamberg](https://www.google.com/url?q=https://github.com/wbamberg&sa=D&source=editors&ust=1635238581480000&usg=AOvVaw2nvhHQI2jk5Jwys-txSjes)
+[https://github.com/wbamberg](https://github.com/wbamberg)
 
-[https://github.com/teoli2003](https://www.google.com/url?q=https://github.com/teoli2003&sa=D&source=editors&ust=1635238581480000&usg=AOvVaw1DysCsIriJyONv3F6gRrSg)
+[https://github.com/teoli2003](https://github.com/teoli2003)
 
-[https://github.com/estelle](https://www.google.com/url?q=https://github.com/estelle&sa=D&source=editors&ust=1635238581480000&usg=AOvVaw2i7S0wvibRzs9caWSz9-sp)
+[https://github.com/estelle](https://github.com/estelle)
 
-[https://github.com/rumyra](https://www.google.com/url?q=https://github.com/rumyra&sa=D&source=editors&ust=1635238581481000&usg=AOvVaw12-rM_cfMHoMF2qL8PN9DL)
+[https://github.com/rumyra](https://github.com/rumyra)
 
-[https://github.com/chrisdavidmills](https://www.google.com/url?q=https://github.com/chrisdavidmills&sa=D&source=editors&ust=1635238581481000&usg=AOvVaw3Qa8XpFrc-HExW8OLDIKx2)
+[https://github.com/chrisdavidmills](https://github.com/chrisdavidmills)
 
-[https://github.com/rachelandrew](https://www.google.com/url?q=https://github.com/rachelandrew&sa=D&source=editors&ust=1635238581481000&usg=AOvVaw3RfL6m0pp54FLPSIHJRhwM)
+[https://github.com/rachelandrew](https://github.com/rachelandrew)
 
-[https://github.com/hamishwillee](https://www.google.com/url?q=https://github.com/hamishwillee&sa=D&source=editors&ust=1635238581481000&usg=AOvVaw0ciEryza-ztdbdcvPcBNSW)
+[https://github.com/hamishwillee](https://github.com/hamishwillee)
 
-[https://github.com/ddbeck](https://www.google.com/url?q=https://github.com/ddbeck&sa=D&source=editors&ust=1635238581481000&usg=AOvVaw2iL9ZRo8g011JYJuI1ZWi9)
+[https://github.com/ddbeck](https://github.com/ddbeck)
 
-[https://github.com/sideshowbarker](https://www.google.com/url?q=https://github.com/sideshowbarker&sa=D&source=editors&ust=1635238581482000&usg=AOvVaw1Dkr8ZYtf1bc9wXfycky7y)
+[https://github.com/sideshowbarker](https://github.com/sideshowbarker)
 
-[https://github.com/jpmedley](https://www.google.com/url?q=https://github.com/jpmedley&sa=D&source=editors&ust=1635238581482000&usg=AOvVaw1bNTiMVKJ8kQFUn6aVzvSp)
+[https://github.com/jpmedley](https://github.com/jpmedley)
 
-[https://github.com/ericwbailey](https://www.google.com/url?q=https://github.com/ericwbailey&sa=D&source=editors&ust=1635238581482000&usg=AOvVaw1-p_LOMJphVAoN8iqxDTnc)
+[https://github.com/ericwbailey](https://github.com/ericwbailey)
 
-[https://github.com/Ryuno-Ki](https://www.google.com/url?q=https://github.com/Ryuno-Ki&sa=D&source=editors&ust=1635238581482000&usg=AOvVaw3vN4I4sD27xcdwz_jMljlo)
+[https://github.com/Ryuno-Ki](https://github.com/Ryuno-Ki)
 
 
 
@@ -762,21 +762,21 @@ filtered by each month, February to September. For example:
 
 
 
-[https://github.com/Elchi3?tab=overview\&from=2021-02-01\&to=2021-02-28](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-02-01%26to%3D2021-02-28&sa=D&source=editors&ust=1635238581483000&usg=AOvVaw3QX9gS-aCiV9TDJyk2loAE)
+[https://github.com/Elchi3?tab=overview\&from=2021-02-01\&to=2021-02-28](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-02-01%26to%3D2021-02-28)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-03-01\&to=2021-03-31](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-03-01%26to%3D2021-03-31&sa=D&source=editors&ust=1635238581483000&usg=AOvVaw0eRixPiUdgWo5_1Xbv4E3I)
+[https://github.com/Elchi3?tab=overview\&from=2021-03-01\&to=2021-03-31](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-03-01%26to%3D2021-03-31)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-04-01\&to=2021-04-30](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-04-01%26to%3D2021-04-30&sa=D&source=editors&ust=1635238581483000&usg=AOvVaw2FOsBdZ7s09wmhwpY1hGB7)
+[https://github.com/Elchi3?tab=overview\&from=2021-04-01\&to=2021-04-30](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-04-01%26to%3D2021-04-30)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-05-01\&to=2021-05-31](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-05-01%26to%3D2021-05-31&sa=D&source=editors&ust=1635238581483000&usg=AOvVaw3KLOz9mzfkWzlb-kMP39m4)
+[https://github.com/Elchi3?tab=overview\&from=2021-05-01\&to=2021-05-31](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-05-01%26to%3D2021-05-31)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-06-01\&to=2021-06-30](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-06-01%26to%3D2021-06-30&sa=D&source=editors&ust=1635238581484000&usg=AOvVaw1qunNsHGU6XhvAjxlEX_PJ)
+[https://github.com/Elchi3?tab=overview\&from=2021-06-01\&to=2021-06-30](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-06-01%26to%3D2021-06-30)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-07-01\&to=2021-07-31](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-07-01%26to%3D2021-07-31&sa=D&source=editors&ust=1635238581484000&usg=AOvVaw3hPxaQ7FdtGGH-ySE0nlBl)
+[https://github.com/Elchi3?tab=overview\&from=2021-07-01\&to=2021-07-31](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-07-01%26to%3D2021-07-31)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-08-01\&to=2021-08-31](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-08-01%26to%3D2021-08-31&sa=D&source=editors&ust=1635238581484000&usg=AOvVaw3bok4sX_ZB8HJIQ5xErkIF)
+[https://github.com/Elchi3?tab=overview\&from=2021-08-01\&to=2021-08-31](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-08-01%26to%3D2021-08-31)
 
-[https://github.com/Elchi3?tab=overview\&from=2021-09-01\&to=2021-09-30](https://www.google.com/url?q=https://github.com/Elchi3?tab%3Doverview%26from%3D2021-09-01%26to%3D2021-09-30&sa=D&source=editors&ust=1635238581484000&usg=AOvVaw3y270Gio1A8LBOTxUE_IfV)
+[https://github.com/Elchi3?tab=overview\&from=2021-09-01\&to=2021-09-30](https://github.com/Elchi3?tab%3Doverview%26from%3D2021-09-01%26to%3D2021-09-30)
 
 
 
