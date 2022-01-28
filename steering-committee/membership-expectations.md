@@ -55,6 +55,7 @@ In support of these expectations,
 - Jean-Yves Perrier (Open Web Docs)
 - Estelle Weyl (Open Web Docs)
 - Daniel Beck (Mozilla)
+- Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
 
 ## Members emeriti
 
