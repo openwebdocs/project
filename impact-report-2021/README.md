@@ -460,7 +460,7 @@ Although in theory mixins avoid duplication, in practice the implementation of
 a mixin in a given interface should have its own documentation anyway (for
 example, code samples should use the concrete interface).
 
-This project eliminated mixing by separating out the properties they listed and
+This project eliminated mixins by separating out the properties they listed and
 documenting these properties in the concrete inheriting interfaces.
 
 * https://github.com/openwebdocs/project/issues/23
@@ -528,7 +528,7 @@ The DOM is a fundamental part of the web that all developer have to understand.
 MDN's DOM reference documentation is badly out of date and in many cases not
 coherent.
 
-This project will assess which updates are needed and make them
+This project will assess which updates are needed and make them.
 
 * https://github.com/openwebdocs/project/issues/50
 * https://github.com/mdn/content/issues/9740
@@ -548,7 +548,7 @@ and apply them.
 #### Documenting events and representing them in BCD
 
 Events again are one of the fundamental aspects of web development, and the
-way MDN documents events is confusing, One of the main problems is that
+way MDN documents events is confusing. One of the main problems is that
 currently each event tends to be documented across two different pages:
 
 * a page for the "event handler property" like `onclick`
