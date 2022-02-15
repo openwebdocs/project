@@ -37,9 +37,9 @@ It was clear that for the long-term health of MDN, we needed a better authoring 
 
 Replacing HTML as the authoring format for MDN wasn't a new idea: we had discussed it many times in the last few years. We had considered both [AsciiDoc](https://www.writethedocs.org/guide/writing/asciidoc/) and [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) and in many ways these formats are superior to Markdown: they are more powerful, they support semantic markup, and they have extensibility built in.
 
-Instead of these we chose Markdown, really because Markdown is such a widely used and supported format. This gives us two major advantages:
-* almost everyone coming to MDN is going to understand Markdown well enough to contribute right away. Even though many MDN contributions need an understanding of the (sometimes extreme!) complexity of MDN, many contributions do not, and Markdown makes these contributions as easy as possible.
-* there's great and often seamless tool support for Markdown. Most modern code editors have Markdown preview built in. [Prettier](https://prettier.io/) has support for Markdown (and even for code samples embedded in Markdown). GitHub can display rich diffs for Markdown.
+Instead of these, we chose Markdown, because Markdown is such a widely used and supported format. This gives us two major advantages:
+- almost everyone coming to MDN is going to understand Markdown well enough to contribute right away. Even though many MDN contributions need an understanding of the (sometimes extreme!) complexity of MDN, many contributions do not, and Markdown makes these contributions as easy as possible.
+- there's great and often seamless tool support for Markdown. Most modern code editors have Markdown preview built in. [Prettier](https://prettier.io/) has support for Markdown (and even for code samples embedded in Markdown). GitHub can display rich diffs for Markdown.
 
 ## Choosing a format, part 2 - but which Markdown?
 
@@ -52,7 +52,7 @@ This pushed us towards a minimalist approach, in which we would:
 1. choose a baseline flavour of Markdown
 2. analyse our current files to figure out which extensions we needed
 3. decide on a syntax for the extensions
-4. update our sources to clean any HTML syntax we didn't want to take into our future
+4. update our sources to clean any HTML syntax that we didn't want to take into our future
 
 ## Choosing a format, part 3 - the gory details
 
