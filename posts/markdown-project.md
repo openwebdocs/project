@@ -82,7 +82,7 @@ We also needed an update to the Yari platform to perform the reverse operation, 
 
 Once we had the `h2m` conversion tool, we could start preparing the content for conversion. When we run the conversion tool over a set of pages, it also produces a report telling us which HTML features were unconvertible. We could then go through the content, making any changes needed to make the content Markdown-convertible.
 
-Once we were happy with the conversion report, we'd create and review a PR to convert the pages. The conversion was made in two Git commits: one to rename the files from "index.html" to "index.md", and another to replace the file contents. This helps Git understand that we are changing an existing file, so we preserve its change history.
+Once we were happy with the conversion report, we'd create and review a PR to convert the pages. The conversion was made in two Git commits: one to rename the files from "`index.html`" to "`index.md`", and another to replace the file contents. This helps Git understand that we are changing an existing file, so we preserve its change history.
 
 With over 11,000 pages on MDN, this was a big task. First we tested the water with the documentation for the JavaScript [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) object. That seemed to go fine, so we followed up with all the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) documentation (about 1000 pages) and then all the [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) documentation (also about 1000 pages). After that we converted the [Web API](https://developer.mozilla.org/en-US/docs/Web/API) documentation, which was more than 6000 pages, and was a scary PR to merge.
 
