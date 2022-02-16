@@ -58,7 +58,7 @@ This pushed us towards a minimalist approach, in which we would:
 
 For the baseline we chose [GitHub-Flavored Markdown](https://github.github.com/gfm/) (GFM). This is well-supported and has a good spec. It is a superset of [CommonMark](https://spec.commonmark.org/), and just adds a few extensions. We might have chosen CommonMark as a baseline, except GFM supports tables, which we knew we needed.
 
-The next step was to figure out what to do about features in the MDN source files that weren't supported in GFM. For each feature like this there are three options:
+The next step was to figure out what to do about features in the MDN source files that weren't supported in GFM. For each feature like this, there are three options:
 
 1. Stop using the feature: find another way to do the thing we want. For example, we had some markup that would present items in multicolumn layout, and [we decided that we could live without this](https://github.com/mdn/content/discussions/7263). Making decisions like this helps simplify the MDN authoring experience, which we think is a good thing!
 
