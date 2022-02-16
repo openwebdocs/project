@@ -138,7 +138,7 @@ const element = driver.findElement(By.id('myElementId'));
 ```
 ````
 
-But it's not about individual blocks of content. Overall, writing and reviewing is dramatically easier than it used to be. The beauty of Markdown, as a writer, is that it lets you concentrate on expressing concepts and hardly thinking about syntax at all.
+But it's not about individual blocks of content. Overall, writing and reviewing is dramatically easier than it used to be. The beauty of Markdown, to you as a writer, is that it lets you concentrate on expressing concepts and hardly thinking about syntax at all.
 
 At Open Web Docs, we always have to consider which projects to take on next. In particular we have to choose between projects to write new documentation, projects to improve existing documentation, and projects to improve documentation infrastructure. They're all important, but infrastructure projects like Markdown conversion sometimes seem hard to justify because they don't provide an immediate benefit to our readers. The success of the Markdown project was that the rendered pages look (mostly) exactly the same!
 
