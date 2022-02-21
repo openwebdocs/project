@@ -12,7 +12,7 @@ This document outlines high-level objectives for Open Web Docs in 2022.
 
 ## Steering Committee
 - Maintain relationship with Mozilla around MDN on editorial decisions and contributions
-- Establish a clear process to meaningful prioritize projects on a quarterly basis
+- Establish a clear process to meaningfully prioritize projects on a quarterly basis
 - Publish regular updates to keep community members/funders apprised of our progress
 - Set up a web presence at https://openwebdocs.org 
 
