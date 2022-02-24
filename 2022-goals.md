@@ -17,6 +17,7 @@ This document outlines high-level objectives for Open Web Docs in 2022.
 - Set up a web presence at https://openwebdocs.org 
 
 ## Staff
-- Steadily contribute to web platform content on MDN and support infrastructure evolution of MDN
+- Steadily contribute to web platform content on MDN 
+- Support infrastructure evolution of MDN
 - Continuously work on browser-compat-data to keep it updated and accurate
 - Grow community of web platform documentation contributors
