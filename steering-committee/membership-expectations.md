@@ -53,7 +53,7 @@ In support of these expectations,
 - Piotr Tomiak (JetBrains)
 - Jean-Yves Perrier (Open Web Docs)
 - Estelle Weyl (Open Web Docs)
-- Daniel Beck (Mozilla)
+- Dipika Bhattacharya (Mozilla)
 - Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
 
 ## Members emeriti
