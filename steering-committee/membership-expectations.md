@@ -36,7 +36,7 @@ In support of these expectations,
 
 - Florian Scholz (Open Web Docs)
 - Robert Nyman (Google)
-- Philip Jägenstedt (Google)
+- Rachel Andrew (Google)
 - Dominique Hazael-Massieux (W3C)
 - Uchi Uchibeke (Coil)
 - Daniel Appelquist (Samsung)
@@ -61,3 +61,4 @@ In support of these expectations,
 
 - Adrian Hope-Bailie (Coil)
 - Hermina Condei (Mozilla)
+- Philip Jägenstedt (Google)
