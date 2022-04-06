@@ -62,3 +62,4 @@ In support of these expectations,
 - Hermina Condei (Mozilla)
 - Philip Jägenstedt (Google)
 - Joel Marcey (Facebook/Meta)
+- Daniel Beck (Mozilla)
