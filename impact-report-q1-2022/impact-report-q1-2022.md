@@ -1,4 +1,4 @@
-# Open Web Docs Q1 2022 report
+# Open Web Docs Q1 2022 Impact Report
 
 This report provides an update on Open Web Docs for the first quarter of 2022. It’s split into the following parts:
 
