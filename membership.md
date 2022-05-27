@@ -1,8 +1,8 @@
 # Governing Committee Membership \
-## The Governing Committee is composed of organizations sponsoring at the Platinum level as well as elected representatives from the Gold membership level and an OWD Staff representative. Each Platinum sponsor may appoint a representative and an alternate. Gold sponsors will elect one representative per every 3 Gold memberships. The OWD Staff Representative will be the Lead Tech Writer.
+
+The Governing Committee is composed of organizations sponsoring at the Platinum level as well as elected representatives from the Gold membership level and an OWD Staff representative. Each Platinum sponsor may appoint a representative and an alternate. Gold sponsors will elect one representative per every 3 Gold memberships. The OWD Staff Representative will be the Lead Tech Writer.
 
 The Governing Committee may appoint individual advisors to participate in GC meetings at its discretion. \
-
 
 ## Sponsorship Terms \
 
@@ -12,13 +12,9 @@ Sponsorship terms are for one year. Sponsorships renew on a yearly basis. The sp
 
 Open Web Docs offers tiered sponsorship levels in order to support participation from a diverse group of organizations based on size, financials, and resource bandwidth. Discounts may be offered for organizations making multi-year commitments.
 
-
 ### Platinum Sponsorship
 
-
-    Platinum Sponsorship fees are $250k annually. As a Platinum sponsor, the organization is entitled to: 
-
-
+Platinum Sponsorship fees are $250k annually. As a Platinum sponsor, the organization is entitled to: 
 
 * Appoint one representative and one alternate representative to the Governing Committee.
     * Includes @openwebdocs.org email address
@@ -32,15 +28,13 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 
 ### Gold Sponsorship
 
-
-    Gold Sponsorship fees are tiered according to the table below. As a Gold sponsor, the organization is entitled to: 
+Gold Sponsorship fees are tiered according to the table below. As a Gold sponsor, the organization is entitled to: 
 
 * Nominate one representative for election to the Governing Committee from the Gold sponsor members. 
 * Appoint a representative to the Steering Committee.
 * Early access to reports and data gathered by Open Web Docs staff about developer needs.
 * Recognition as a Gold sponsor along with placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc)
 * Acknowledgement in public presentations and reports authored by Open Web Docs staff.
-
 
 <table>
   <tr>
@@ -69,19 +63,13 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
   </tr>
 </table>
 
-
-
 ### Silver Sponsorship
 
-
-    Silver Sponsorship fees are tiered according to the table below. As a Silver sponsor, the organization is entitled to: \
-
+Silver Sponsorship fees are tiered according to the table below. As a Silver sponsor, the organization is entitled to: \
 
 * Appoint a representative to the Steering Committee.
 * Recognition as a Silver sponsor along with placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc).
 * Acknowledgement in public presentations and reports authored by Open Web Docs staff.
-
-
 
 <table>
   <tr>
@@ -109,8 +97,6 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
    </td>
   </tr>
 </table>
-
-
 
 ### Associate Membership
 
