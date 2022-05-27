@@ -102,7 +102,7 @@ Silver Sponsorship fees are tiered according to the table below. As a Silver spo
 
 At the discretion of the Governing Committee, Associate Membership may be granted to non-profit organizations. Associate Membership will be evaluated based on the organization’s interest and investment in web documentation, and will be reviewed on an annual basis. At the discretion of the Governing Committee, Associate Members may be invited to put forward a representative in the Governing Committee as a non-voting representative.
 
-### Additional Acknowledgments
+## Additional Acknowledgments
 
 1. The Governing Committee wishes to specially recognize the early financial support provided by Coil which allowed the timely formation of Open Web Docs. In recognition of this support, Coil will remain on the Governing Committee through 2022. \
 
