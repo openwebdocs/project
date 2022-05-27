@@ -1,18 +1,19 @@
-**Governing Committee Membership \
-**The Governing Committee is composed of organizations sponsoring at the Platinum level as well as elected representatives from the Gold membership level and an OWD Staff representative. Each Platinum sponsor may appoint a representative and an alternate. Gold sponsors will elect one representative per every 3 Gold memberships. The OWD Staff Representative will be the Lead Tech Writer.
+# Governing Committee Membership \
+## The Governing Committee is composed of organizations sponsoring at the Platinum level as well as elected representatives from the Gold membership level and an OWD Staff representative. Each Platinum sponsor may appoint a representative and an alternate. Gold sponsors will elect one representative per every 3 Gold memberships. The OWD Staff Representative will be the Lead Tech Writer.
 
 The Governing Committee may appoint individual advisors to participate in GC meetings at its discretion. \
 
 
-**Sponsorship Terms \
-**Sponsorship terms are for one year. Sponsorships renew on a yearly basis. The sponsorship term is January 1 to December 31. Platinum sponsors should report their renewal intentions to the GC by September 30. Invoices will be sent on January 1. Payment must be received by March 31.
+## Sponsorship Terms \
 
-**Sponsorship Levels and Tiers**
+Sponsorship terms are for one year. Sponsorships renew on a yearly basis. The sponsorship term is January 1 to December 31. Platinum sponsors should report their renewal intentions to the GC by September 30. Invoices will be sent on January 1. Payment must be received by March 31.
+
+## Sponsorship Levels and Tiers
 
 Open Web Docs offers tiered sponsorship levels in order to support participation from a diverse group of organizations based on size, financials, and resource bandwidth. Discounts may be offered for organizations making multi-year commitments.
 
 
-    <span style="text-decoration:underline;">Platinum Sponsorship</span>
+### Platinum Sponsorship
 
 
     Platinum Sponsorship fees are $250k annually. As a Platinum sponsor, the organization is entitled to: 
@@ -29,7 +30,7 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 * Recognition as a Platinum sponsor along with prominent placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc)
 * Acknowledgement in public presentations and reports authored by Open Web Docs staff, inclusive of logo where appropriate.
 
-    <span style="text-decoration:underline;">Gold Sponsorship</span>
+### Gold Sponsorship
 
 
     Gold Sponsorship fees are tiered according to the table below. As a Gold sponsor, the organization is entitled to: 
@@ -39,8 +40,6 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 * Early access to reports and data gathered by Open Web Docs staff about developer needs.
 * Recognition as a Gold sponsor along with placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc)
 * Acknowledgement in public presentations and reports authored by Open Web Docs staff.
-
-    _Fee Tier_
 
 
 <table>
@@ -72,7 +71,7 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 
 
 
-    <span style="text-decoration:underline;">Silver Sponsorship</span>
+### Silver Sponsorship
 
 
     Silver Sponsorship fees are tiered according to the table below. As a Silver sponsor, the organization is entitled to: \
@@ -82,7 +81,6 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 * Recognition as a Silver sponsor along with placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc).
 * Acknowledgement in public presentations and reports authored by Open Web Docs staff.
 
-    _Fee Tier_
 
 
 <table>
@@ -114,12 +112,11 @@ Open Web Docs offers tiered sponsorship levels in order to support participation
 
 
 
-**Associate Membership \
-**At the discretion of the Governing Committee, Associate Membership may be granted to non-profit organizations. Associate Membership will be evaluated based on the organization’s interest and investment in web documentation, and will be reviewed on an annual basis. At the discretion of the Governing Committee, Associate Members may be invited to put forward a representative in the Governing Committee as a non-voting representative.
+### Associate Membership
 
-**Additional Acknowledgments**
+At the discretion of the Governing Committee, Associate Membership may be granted to non-profit organizations. Associate Membership will be evaluated based on the organization’s interest and investment in web documentation, and will be reviewed on an annual basis. At the discretion of the Governing Committee, Associate Members may be invited to put forward a representative in the Governing Committee as a non-voting representative.
 
-
+### Additional Acknowledgments
 
 1. The Governing Committee wishes to specially recognize the early financial support provided by Coil which allowed the timely formation of Open Web Docs. In recognition of this support, Coil will remain on the Governing Committee through 2022. \
 
