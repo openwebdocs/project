@@ -43,7 +43,6 @@ In support of these expectations,
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
-- Chris Mills (Independent)
 - Jory Burson (Open Web Docs)
 - Lola Odelola (Samsung)
 - Will Bamberg (Open Web Docs)
@@ -63,3 +62,4 @@ In support of these expectations,
 - Philip Jägenstedt (Google)
 - Joel Marcey (Facebook/Meta)
 - Daniel Beck (Mozilla)
+- Chris Mills (Independent)
