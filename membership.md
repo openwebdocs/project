@@ -4,7 +4,7 @@ The Governing Committee is composed of organizations sponsoring at the Platinum 
 
 The Governing Committee may appoint individual advisors to participate in GC meetings at its discretion. \
 
-## Sponsorship Terms \
+## Sponsorship Terms 
 
 Sponsorship terms are for one year. Sponsorships renew on a yearly basis. The sponsorship term is January 1 to December 31. Platinum sponsors should report their renewal intentions to the GC by September 30. Invoices will be sent on January 1. Payment must be received by March 31.
 
