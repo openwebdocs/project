@@ -18,7 +18,7 @@ Platinum Sponsorship fees are $250k annually. As a Platinum sponsor, the organiz
 
 * Appoint one representative and one alternate representative to the Governing Committee.
     * Includes @openwebdocs.org email address
-* Appoint representatives to the [Steering Committee](https://github.com/openwebdocs/project/blob/main/steering-committee/membership-expectations.md)
+* Appoint 2 representatives to the [Steering Committee](https://github.com/openwebdocs/project/blob/main/steering-committee/membership-expectations.md)
     * Includes invitation to participate in regular content meetings
 * Provide quotes, statements, blog articles and other thought-leadership input on Open Web Docs press releases, Impact Reports, blog posts and other relevant documents.
     * Opportunity to participate in Open Web Docs reports, articles and other materials.
