@@ -1,4 +1,4 @@
-# Governing Committee Membership \
+# Governing Committee Membership 
 
 The Governing Committee is composed of organizations sponsoring at the Platinum level as well as elected representatives from the Gold membership level and an OWD Staff representative. Each Platinum sponsor may appoint a representative and an alternate. Gold sponsors will elect one representative per every 3 Gold memberships. The OWD Staff Representative will be the Lead Tech Writer.
 
