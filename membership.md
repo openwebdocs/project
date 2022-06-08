@@ -104,7 +104,7 @@ At the discretion of the Governing Committee, Associate Membership may be grante
 
 ## Additional Acknowledgments
 
-1. The Governing Committee wishes to specially recognize the early financial support provided by Coil which allowed the timely formation of Open Web Docs. In recognition of this support, Coil will remain on the Governing Committee through 2022. \
+1. The Governing Committee wishes to specially recognize the early financial support provided by Coil which allowed the timely formation of Open Web Docs. In recognition of this support, Coil will remain on the Governing Committee through 2022. 
 
 2. A spot is held on the Governing Committee for Gold sponsors even in the event there are fewer than 3 sponsors. \
 
