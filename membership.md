@@ -65,7 +65,7 @@ Gold Sponsorship fees are tiered according to the table below. As a Gold sponsor
 
 ### Silver Sponsorship
 
-Silver Sponsorship fees are tiered according to the table below. As a Silver sponsor, the organization is entitled to: \
+Silver Sponsorship fees are tiered according to the table below. As a Silver sponsor, the organization is entitled to: 
 
 * Appoint a representative to the Steering Committee.
 * Recognition as a Silver sponsor along with placement of brand/logo mark on Open Web Docs web assets (website, open collective page, etc).
