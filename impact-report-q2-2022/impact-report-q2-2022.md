@@ -24,7 +24,6 @@ This takes the form of contributions to the main content repositories under the 
 
 MDN is an essential resource for web developers. It:
 
-* receives X million unique visitors every month
 * [has been linked from Stack Overflow more than 150,000 times in the last 5 years](https://meta.stackoverflow.com/questions/417189/which-sites-are-currently-linked-to-most-often-in-stack-overflow/417190#417190), #2 among all developer documentation sites
 * was ranked #2 (behind Stack Overflow) in the [State of JS 2021](https://2021.stateofjs.com/en-US/resources/#sites_courses) and [State of CSS 2021](https://2021.stateofcss.com/en-US/resources/#sites_courses) surveys
 
