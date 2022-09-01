@@ -54,6 +54,7 @@ In support of these expectations,
 - Estelle Weyl (Open Web Docs)
 - Dipika Bhattacharya (Mozilla)
 - Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
+- Jonathan Davis (Apple)
 
 ## Members emeriti
 
