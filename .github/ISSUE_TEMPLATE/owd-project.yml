@@ -1,0 +1,53 @@
+name: "OWD project proposal"
+description: Propose a project for OWD to work on.
+labels: ["not ready"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you start:
+        
+        **Want to report a problem with an MDN page?** Please report it directly on mdn/content!
+        ↩ https://github.com/mdn/content
+        
+        **Is your issue about a browser compatibility table?** Report the issue at
+        ↩ https://github.com/mdn/browser-compat-data
+        
+        ---
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem statement
+      description: Please describe the problem this project is aiming to solve.
+  - type: textarea
+    id: proposed-solutions
+    attributes:
+      label: Proposed solutions
+      description: If there are proposed solutions, please describe them here.
+  - type: textarea
+    id: task-list
+    attributes:
+      label: Task list
+      description: If known already, list steps involved to complete this project.
+      value: |
+        - [ ] 
+  - type: textarea
+    attributes:
+      label: Priority assessment
+      description: Please try to provide an initial assessment against our [OWD prioritization criteria](https://github.com/openwebdocs/project/blob/main/steering-committee/prioritization-criteria.md). Don't worry too much about it, though. We can fill this in afterwards, too.
+      value: |
+        - **Effort**: 
+        - **Dependencies**: 
+        - **Community enablement**: 
+        - **Momentum**: 
+        - **Enabling learners**: 
+        - **Enabling professionals**:
+        - **Underrepresented topics / Ethical web**: 
+        - **Operational necessities**:
+        - **Addressing needs of the web industry**:
+
+  - type: textarea
+    id: misc
+    attributes:
+      label: More information
+      description: Links, or any additional useful information you'd like to share with us.
