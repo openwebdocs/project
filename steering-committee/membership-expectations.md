@@ -39,7 +39,7 @@ In support of these expectations,
 - Rachel Andrew (Google)
 - Dominique Hazael-Massieux (W3C)
 - Uchi Uchibeke (Coil)
-- Daniel Appelquist (Samsung)
+- Daniel Appelquist (Snyk)
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
