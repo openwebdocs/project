@@ -44,7 +44,7 @@ In support of these expectations,
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
 - Jory Burson (Open Web Docs)
-- Lola Odelola (Samsung)
+- Lola Odelola (Independent)
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
 - Ruth John (Mozilla)
