@@ -55,6 +55,7 @@ In support of these expectations,
 - Dipika Bhattacharya (Mozilla)
 - Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
 - Jonathan Davis (Apple)
+- Laura Morinigo (Samsung Internet)
 
 ## Members emeriti
 
