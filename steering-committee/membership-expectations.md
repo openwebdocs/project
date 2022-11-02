@@ -56,6 +56,7 @@ In support of these expectations,
 - Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
 - Jonathan Davis (Apple)
 - Laura Morinigo (Samsung Internet)
+- Xidorn Quan (Canva)
 
 ## Members emeriti
 
