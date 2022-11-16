@@ -43,6 +43,7 @@ In support of these expectations,
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
+- Patrick Brosset (Microsoft)
 - Jory Burson (Open Web Docs)
 - Lola Odelola (Independent)
 - Will Bamberg (Open Web Docs)
