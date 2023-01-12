@@ -38,7 +38,6 @@ In support of these expectations,
 - Robert Nyman (Google)
 - Rachel Andrew (Google)
 - Dominique Hazael-Massieux (W3C)
-- Uchi Uchibeke (Coil)
 - Daniel Appelquist (Snyk)
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
@@ -67,3 +66,4 @@ In support of these expectations,
 - Joel Marcey (Facebook/Meta)
 - Daniel Beck (Mozilla)
 - Chris Mills (Independent)
+- Uchi Uchibeke (Coil)
