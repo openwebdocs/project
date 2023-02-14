@@ -48,7 +48,6 @@ In support of these expectations,
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
 - Ruth John (Mozilla)
-- Dominic Cooney (Meta)
 - Piotr Tomiak (JetBrains)
 - Jean-Yves Perrier (Open Web Docs)
 - Estelle Weyl (Open Web Docs)
@@ -67,3 +66,4 @@ In support of these expectations,
 - Daniel Beck (Mozilla)
 - Chris Mills (Independent)
 - Uchi Uchibeke (Coil)
+- Dominic Cooney (Meta)
