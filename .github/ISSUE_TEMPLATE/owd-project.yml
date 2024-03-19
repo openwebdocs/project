@@ -51,3 +51,11 @@ body:
     attributes:
       label: More information
       description: Links, or any additional useful information you'd like to share with us.
+      value: |
+        Open Web Docs (OWD) is a non-profit collective funded by corporate and individual donations.
+        
+        In order for this project to happen, please consider donating to OWD at https://opencollective.com/open-web-docs.
+        For more information on sponsorship and membership tiers, see https://openwebdocs.org/membership/
+        
+        More information is available at https://openwebdocs.org/.
+        For questions, please reach out to florian@openwebdocs.org.
