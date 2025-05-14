@@ -12,7 +12,6 @@ Individuals participate in the steering committee on behalf of an organization, 
 - They review other proposals and provide feedback
 
 ## Responsibilities
-- Join the steering committee calls at least once a month
 - Join and participate in asynchronous discussions
 - Attend at least 2 quarterly review meetings per year (quarterly review meetings will be held remotely for the time being, and may be open to the public)
 - Provide feedback on editorial direction and documentation work streams
@@ -29,7 +28,6 @@ As a steering committee member, you agree to:
 - Represent the needs of the wider diverse community of web developers
 - Promptly inform Open Web Docs if your affiliation changes, as this may affect your participation on the steering committee
 
-
 ## Signing members
 
 In support of these expectations,
@@ -38,7 +36,6 @@ In support of these expectations,
 - Robert Nyman (Google)
 - Rachel Andrew (Google)
 - Dominique Hazael-Massieux (W3C)
-- Daniel Appelquist (Snyk)
 - Brian Kardell (Igalia)
 - Eric Meyer (Igalia)
 - Kyle Pflug (Microsoft)
